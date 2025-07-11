@@ -1,0 +1,41 @@
+{
+  "nome_exame": "Ultrassonografia Abdominal Total",
+  "template_tecnica": "Exame ultrassonográfico do abdome superior realizado com transdutor convexo, avaliando fígado, vias biliares, vesícula biliar, pâncreas, baço, rins e grandes vasos.",
+  "achados": [
+    {
+      "id": "A001",
+      "keywords": ["figado normal", "fígado sem alterações"],
+      "texto_formal": "Fígado com dimensões normais, contornos regulares e ecotextura parenquimatosa homogênea.",
+      "tipo": "normalidade",
+      "conclusao_resumida": null
+    },
+    {
+      "id": "A002",
+      "keywords": ["esteatose", "fígado gorduroso", "figado esteatosico"],
+      "texto_formal": "Fígado apresentando aumento difuso de sua ecogenicidade, compatível com esteatose hepática.",
+      "tipo": "patologico",
+      "conclusao_resumida": "Esteatose Hepática"
+    },
+    {
+      "id": "A003",
+      "keywords": ["vesicula normal", "vesícula sem alterações"],
+      "texto_formal": "Vesícula biliar com paredes finas, conteúdo anecoico, sem evidência de cálculos em seu interior.",
+      "tipo": "normalidade",
+      "conclusao_resumida": null
+    },
+    {
+      "id": "A004",
+      "keywords": ["calculo na vesicula", "calculos na vesicula", "colelitiase"],
+      "texto_formal": "Presença de imagens ecogênicas móveis no interior da vesícula biliar, produtoras de sombra acústica posterior, compatíveis com cálculos.",
+      "tipo": "patologico",
+      "conclusao_resumida": "Colelitíase (cálculos na vesícula)"
+    },
+    {
+      "id": "A005",
+      "keywords": ["rins normais", "rim normal"],
+      "texto_formal": "Rins tópicos, com dimensões preservadas, contornos regulares e boa diferenciação corticomedular.",
+      "tipo": "normalidade",
+      "conclusao_resumida": null
+    }
+  ]
+}

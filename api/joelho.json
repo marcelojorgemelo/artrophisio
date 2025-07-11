@@ -1,0 +1,55 @@
+{
+  "nome_exame": "Ultrassonografia do Joelho",
+  "template_tecnica": "Exame ultrassonográfico da articulação do joelho {lado} realizado com transdutor linear de alta frequência, avaliando as estruturas dos compartimentos anterior, medial, lateral e posterior.",
+  "achados": [
+    {
+      "id": "J001",
+      "keywords": ["derrame articular", "liquido no recesso", "liquido suprapatelar"],
+      "texto_formal": "Presença de derrame articular, com destaque para o recesso suprapatelar.",
+      "tipo": "patologico",
+      "conclusao_resumida": "Derrame Articular"
+    },
+    {
+      "id": "J002",
+      "keywords": ["espessamento sinovial", "sinovite"],
+      "texto_formal": "Observa-se espessamento e aumento da ecogenicidade da membrana sinovial, compatível com processo inflamatório.",
+      "tipo": "patologico",
+      "conclusao_resumida": "Sinovite"
+    },
+    {
+      "id": "J003",
+      "keywords": ["cisto de baker", "cisto popliteo"],
+      "texto_formal": "Identificado cisto poplíteo (de Baker), de contornos regulares e conteúdo anecoico, sem sinais de complicações.",
+      "tipo": "patologico",
+      "conclusao_resumida": "Cisto de Baker"
+    },
+    {
+      "id": "J004",
+      "keywords": ["tendinopatia patelar", "tendinose patelar"],
+      "texto_formal": "Sinais de tendinopatia do tendão patelar em sua inserção proximal, caracterizada por espessamento e alteração ecotextural.",
+      "tipo": "patologico",
+      "conclusao_resumida": "Tendinopatia Patelar"
+    },
+    {
+      "id": "J005",
+      "keywords": ["patelar normal"],
+      "texto_formal": "Tendão patelar com espessura, contornos e ecotextura preservadas.",
+      "tipo": "normalidade",
+      "conclusao_resumida": null
+    },
+    {
+      "id": "J006",
+      "keywords": ["lcm normal"],
+      "texto_formal": "Ligamento colateral medial de aspecto normal.",
+      "tipo": "normalidade",
+      "conclusao_resumida": null
+    },
+    {
+      "id": "J007",
+      "keywords": ["sem derrame", "ausencia de derrame"],
+      "texto_formal": "Ausência de derrame articular significativo.",
+      "tipo": "normalidade",
+      "conclusao_resumida": null
+    }
+  ]
+}
